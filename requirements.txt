@@ -1,0 +1,5 @@
+streamlit
+smtplib
+requests
+email
+python-dotenv
